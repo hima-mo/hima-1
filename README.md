@@ -1,2 +1,2 @@
 # hima-1
-just edited manually .modifoed
+this line modifed during conflict
