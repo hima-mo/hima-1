@@ -1,3 +1,4 @@
 just another file txt
 this file modified locally
 this line addes in feature-2 branch
+another modification in feature2
